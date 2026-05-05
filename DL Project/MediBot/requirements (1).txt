@@ -1,0 +1,5 @@
+# MediBot — Symptom Checker Bot Dependencies
+# Install with: pip install -r requirements.txt
+
+groq>=0.9.0       # Groq API client (fast LLM inference)
+gradio>=4.0.0     # Web UI
